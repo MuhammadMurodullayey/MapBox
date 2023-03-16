@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Map Project</string>
+    <string name="free">Свободен</string>
+    <string name="busy">Занят</string>
+    <string name="ORDERS">Заказы</string>
+    <string name="tariff">Тарифь</string>
+    <string name="border">Бордюр</string>
+</resources>

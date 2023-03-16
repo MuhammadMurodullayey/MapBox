@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/findCurrentLocationFragment">
+
+    <fragment
+        android:id="@+id/findCurrentLocationFragment"
+        android:name="uz.gita.myfirstmapproject.precentation.ui.screens.FindCurrentLocationFragment"
+        android:label="fragmet_find_current_location"
+        tools:layout="@layout/fragmet_find_current_location" />
+</navigation>
